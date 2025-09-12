@@ -104,13 +104,14 @@ If you use any of our models, please do the following:
    - **VisionFM**: Qiu, Jianing, et al. "Development and validation of a multimodal multitask vision foundation model for generalist ophthalmic artificial intelligence." NEJM AI 1.12 (2024): AIoa2300221.
 2. **Cite this work**:
    ```bibtex
-   @misc{fecso2025retfiner,
-         title={{RetFiner}: A Vision-Language Refinement Scheme for Retinal Foundation Models}, 
-         author={Ronald Fecso and José Morano and Ursula Schmidt-Erfurth and Hrvoje Bogunović},
-         year={2025},
-         eprint={2506.22149},
-         archivePrefix={arXiv},
-         primaryClass={cs.CV},
-         url={https://arxiv.org/abs/2506.22149},
-   }
+   @InProceedings{FecRon_RetFiner_MICCAI2025,
+        author = { Fecso, Ronald and Morano, José and Schmidt-Erfurth, Ursula and Bogunović, Hrvoje},
+        title = { { RetFiner: A Vision-Language Refinement Scheme for Retinal Foundation Models } },
+        booktitle = {proceedings of Medical Image Computing and Computer Assisted Intervention -- MICCAI 2025},
+        year = {2025},
+        publisher = {Springer Nature Switzerland},
+        volume = {LNCS 15964},
+        month = {September},
+        page = {543 -- 553}
+}
    ```
