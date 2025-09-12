@@ -113,5 +113,5 @@ If you use any of our models, please do the following:
         volume = {LNCS 15964},
         month = {September},
         page = {543 -- 553}
-}
+   }
    ```
