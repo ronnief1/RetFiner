@@ -34,9 +34,9 @@ If you want to skip the fine-tuning step and just want the retinal FM vision wei
 > The weights of the models will be released for the MICCAI 2025 conference, which takes place from September 23 to 27, 2025. Shortly before then, we will update this section with download links.
 
 
-- **RetFiner-R** (RetFiner-tuned weights for RETFound)
-- **RetFiner-V** (RetFiner-tuned weights for VisionFM)
-- **RetFiner-U** (RetFiner-tuned weights for UrFound)
+- **RetFiner-R** https://drive.google.com/file/d/1XEkemQqEZMf_ayJPS9udlkQAzCL2HRsf/view?usp=drive_link
+- **RetFiner-V** https://drive.google.com/file/d/1KPxULUnhiU0IrlVuA1vy687niSkJNJdz/view?usp=drive_link
+- **RetFiner-U** https://drive.google.com/file/d/1RLpNwffh_Acr2SlvBei7eo9rIKTiJl59/view?usp=drive_link
 
 
 ## RetFining
