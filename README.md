@@ -25,6 +25,17 @@ We propose RetFiner (Fig. 1), an SSL vision-language refinement scheme that impr
 ![image](https://github.com/user-attachments/assets/69a778f0-21cb-46ec-a8c5-1e2c52c04de3)
 
 
+## Model weights
+
+The model weights are available in the [Model weights release](https://github.com/ronnief1/RetFiner/releases/tag/weights) on GitHub.
+
+| Model | Link |
+| --- | --- |
+| RetFiner-RETFound | [Weights-Base](https://github.com/ronnief1/RetFiner/releases/download/weights/RetFiner_RETFound.pth) |
+| RetFiner-UrFound | [Weights-Large](https://github.com/ronnief1/RetFiner/releases/download/weights/RetFiner_UrFound.pth) |
+| RetFiner-VisionFM | [Weights-Large](https://github.com/ronnief1/RetFiner/releases/download/weights/RetFiner_VisionFM.pth) |
+
+
 
 ## SOTA RetFined weights
 
