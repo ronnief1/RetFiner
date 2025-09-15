@@ -31,19 +31,9 @@ The model weights are available in the [Model weights release](https://github.co
 
 | Model | Link |
 | --- | --- |
-| RetFiner-RETFound | [Weights-Base](https://github.com/ronnief1/RetFiner/releases/download/weights/RetFiner_RETFound.pth) |
-| RetFiner-UrFound | [Weights-Large](https://github.com/ronnief1/RetFiner/releases/download/weights/RetFiner_UrFound.pth) |
-| RetFiner-VisionFM | [Weights-Large](https://github.com/ronnief1/RetFiner/releases/download/weights/RetFiner_VisionFM.pth) |
-
-
-
-## SOTA RetFined weights
-
-If you want to skip the fine-tuning step and just want the retinal FM vision weights resulting from our refinement scheme:
-
-- **RetFiner-R** https://drive.google.com/file/d/1XEkemQqEZMf_ayJPS9udlkQAzCL2HRsf/view?usp=drive_link
-- **RetFiner-V** https://drive.google.com/file/d/1KPxULUnhiU0IrlVuA1vy687niSkJNJdz/view?usp=drive_link
-- **RetFiner-U** https://drive.google.com/file/d/1RLpNwffh_Acr2SlvBei7eo9rIKTiJl59/view?usp=drive_link
+| RetFiner-RETFound | [Weights-RetFiner-R](https://github.com/ronnief1/RetFiner/releases/download/weights/RetFiner_RETFound.pth) |
+| RetFiner-UrFound | [Weights-RetFiner-U](https://github.com/ronnief1/RetFiner/releases/download/weights/RetFiner_UrFound.pth) |
+| RetFiner-VisionFM | [Weights-RetFiner-V](https://github.com/ronnief1/RetFiner/releases/download/weights/RetFiner_VisionFM.pth) |
 
 
 ## RetFining
