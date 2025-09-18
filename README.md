@@ -2,7 +2,7 @@
 
 This is the official repository of the paper "RetFiner: A Vision-Language Refinement Scheme for Retinal Foundation Models", by Ronald Fecso, José Morano, Ursula Schmidt-Erfurth, and Hrvoje Bogunović, accepted for presentation at [MICCAI 2025](https://conferences.miccai.org/2025/en/).
 
-#### [[`arXiv`](https://arxiv.org/abs/2506.22149)]
+#### [[`MICCAI paper`](https://papers.miccai.org/miccai-2025/paper/0660_paper.pdf)]
 
 ## Overview
 
