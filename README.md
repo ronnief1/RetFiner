@@ -43,7 +43,7 @@ Navigate into RetFiner/
 
 Create a new virtual environment in RetFiner/ and install requirements.txt
 
-Text encoder weights: Download BERT [model](https://github.com/ronnief1/RetFiner/releases/download/weights/bert-base-uncased-crossattn.zip) and [tokenizer](https://github.com/ronnief1/RetFiner/releases/download/weights/tokenizer.zip) and unzip them RetFiner/pretrained_weights/.
+Text encoder weights: Download BERT [model](https://github.com/ronnief1/RetFiner/releases/download/weights/bert-base-uncased-crossattn.zip) and [tokenizer](https://github.com/ronnief1/RetFiner/releases/download/weights/tokenizer.zip) and unzip them RetFiner/pretrained_weights/BERT/.
 
 Vision encoder weights: Put your vision model in RetFiner/
 
