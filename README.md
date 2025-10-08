@@ -54,7 +54,7 @@ Then in the command line run:
 python train.py --model_weights path/to/yourvisionmodel
 ```
 
-Once your model is trained, run the following script to extract the vision backbone. This will save it under ../linear_probing/_weights. Note this has only been tested on RETFound, VisionFM, and our in-house MAE. You may need to alter it for another FM.
+Once your model is trained, run the following script to extract the vision backbone. This will save it under ../linear_probing/_weights. Note this has only been tested on RETFound, VisionFM, UrFound, and our in-house MAE. You may need to alter it for another FM.
 ```sh
 python get_vision_backbone_for_linprobing.py --path_to_model models/<model name>/best-model.ckpt
 ```
