@@ -35,6 +35,14 @@ The model weights are available in the [Model weights release](https://github.co
 | RetFiner-UrFound | [Weights-RetFiner-U](https://github.com/ronnief1/RetFiner/releases/download/weights/RetFiner_UrFound.pth) |
 | RetFiner-VisionFM | [Weights-RetFiner-V](https://github.com/ronnief1/RetFiner/releases/download/weights/RetFiner_VisionFM.pth) |
 
+## Huggingface
+Our models can also be easily accessed on Huggingface:
+| Model | Link |
+| --- | --- |
+| RetFiner-RETFound | [Weights-RetFiner-R](https://huggingface.co/ronnief1/RetFiner-RETFound) |
+| RetFiner-UrFound | [Weights-RetFiner-U](https://huggingface.co/ronnief1/RetFiner-UrFound) |
+| RetFiner-VisionFM | [Weights-RetFiner-V](https://huggingface.co/ronnief1/RetFiner-VisionFM) |
+
 
 ## RetFining
 If you want to run RetFiner on your vision model:
